@@ -1,1 +1,1 @@
-build version of todo list used react-redux
+build version of todo list app used react-redux
